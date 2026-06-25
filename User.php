@@ -5,7 +5,7 @@ require_once $_SERVER["DOCUMENT_ROOT"] . "/core/badgeInfo.php";
 
 $userid = $_GET["ID"] ?? $_GET["id"] ?? null;
 $username = $_GET["UserName"] ?? $_GET["username"] ?? null;
-$c = $_GET["c"] ?? 17;
+$c = $_GET["c"] ?? 17; 
 
 $profile = null;
 $public = true;
