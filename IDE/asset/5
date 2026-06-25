@@ -1,0 +1,18 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Sky">
+		<Properties>
+			<bool name="CelestialBodiesShown">true</bool>
+			<string name="Name">Sky</string>
+			<Content name="SkyboxBk"><url>http://www.ryblox.xyz/asset/?id=1010388</url></Content>
+			<Content name="SkyboxDn"><url>http://www.ryblox.xyz/asset/?id=1010389</url></Content>
+			<Content name="SkyboxFt"><url>http://www.ryblox.xyz/asset/?id=1010386</url></Content>
+			<Content name="SkyboxLf"><url>http://www.ryblox.xyz/asset/?id=1010387</url></Content>
+			<Content name="SkyboxRt"><url>http://www.ryblox.xyz/asset/?id=1010385</url></Content>
+			<Content name="SkyboxUp"><url>http://www.ryblox.xyz/asset/?id=1010390</url></Content>
+			<int name="StarCount">3000</int>
+			<bool name="archivable">true</bool>
+		</Properties>
+	</Item>
+</roblox>

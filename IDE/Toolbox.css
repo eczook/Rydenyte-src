@@ -1,0 +1,52 @@
+.objimg {
+  width: 56px;
+  vertical-align: middle;
+}
+#objects {
+  overflow-y: scroll;
+  background-color: White;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+select {
+  width: 100%;
+}
+select:focus {
+  width: 100%;
+}
+body {
+  background-color: ButtonFace;
+  overflow: hidden;
+}
+.a {
+  color: white;
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+  border: white 2px solid;
+  width: 60px;
+  height: 60px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.asset {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+  height: 56px;
+  line-height: 56px;
+  margin: 10px 10px 10px 10px;
+  width: 56px;
+  vertical-align: middle;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+}
+img {
+  text-decoration: none;
+  border: 0px;
+  vertical-align: middle;
+}

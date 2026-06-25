@@ -1,0 +1,28 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ryblox.xyz/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="HopperBin" referent="RBX0">
+		<Properties>
+			<token name="BinType">1</token>
+			<string name="Name">GameTool</string>
+			<Content name="TextureId"><url>rbxasset://Textures\GameTool.png</url></Content>
+			<bool name="archivable">true</bool>
+		</Properties>
+	</Item>
+	<Item class="HopperBin" referent="RBX1">
+		<Properties>
+			<token name="BinType">3</token>
+			<string name="Name">HopperBin</string>
+			<Content name="TextureId"><url>rbxasset://Textures\Clone.png</url></Content>
+			<bool name="archivable">true</bool>
+		</Properties>
+	</Item>
+	<Item class="HopperBin" referent="RBX2">
+		<Properties>
+			<token name="BinType">4</token>
+			<string name="Name">HopperBin</string>
+			<Content name="TextureId"><url>rbxasset://Textures\Hammer.png</url></Content>
+			<bool name="archivable">true</bool>
+		</Properties>
+	</Item>
+</roblox>
