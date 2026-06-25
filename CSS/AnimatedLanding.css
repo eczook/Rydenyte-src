@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+    font: normal 8pt/normal 'Comic Sans MS',Verdana,sans-serif;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Center {
+    text-align: center;
+}
+
+#randomtext {
+    opacity: 1;
+    transition: opacity 0.5s linear;
+}

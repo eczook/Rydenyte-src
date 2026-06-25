@@ -1,0 +1,319 @@
+/*****************************************************
+General Anchor
+*****************************************************/
+a.linkSmallBold,
+a.linkMenuSink {
+  font-weight: bold;
+}
+
+a.linkSmall,
+a.LinkSmallBold,
+a.linkMenuSink {
+  color: navy;
+  font-size: 0.9em;
+}
+
+a.linkSmallBold:visited,
+a.linkMenuSink:visited {
+  color: #013da4;
+}
+
+a.linkSmallBold:hover,
+a.linkMenuSink:hover {
+  color: #dd6900;
+}
+
+/*****************************************************
+Text and Anchor to display when a user is online
+*****************************************************/
+.userOnlineLinkBold,
+a.userOnlineLinkBold,
+a.userOnlineLinkBold:visited,
+a.userOnlineLinkBold:hover,
+a.userOnlineLinkBold:link {
+  font-weight: bold;
+  color: #0055e7;
+}
+
+.moderatorOnlineLinkBold,
+a.moderatorOnlineLinkBold,
+a.moderatorOnlineLinkBold:visited,
+a.moderatorOnlineLinkBold:hover,
+a.moderatorOnlineLinkBold:link {
+  font-weight: bold;
+  color: darkblue;
+}
+
+.adminOnlineLinkBold,
+a.adminOnlineLinkBold,
+a.adminOnlineLinkBold:visited,
+a.adminOnlineLinkBold:hover,
+a.adminOnlineLinkBold:link {
+  font-weight: bold;
+  color: black;
+}
+
+/*****************************************************
+Text and anchors used in the navigation menu
+*****************************************************/
+.menuTitle {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: navy;
+}
+
+.menuText {
+  font-size: 0.9em;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+a.menuTextLink:visited,
+a.menuTextLink:link {
+  font-size: 0.9em;
+  text-decoration: none;
+  color: #013da4;
+}
+
+a.menuTextLink:hover {
+  color: #000000;
+}
+
+/*****************************************************
+Text and anchors used in the search
+*****************************************************/
+.searchPager {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.searchItem {
+  background-color: #ddeeff;
+}
+
+.searchAlternatingItem {
+  background-color: #ffffff;
+}
+
+/*****************************************************
+Default separator style for PostList
+*****************************************************/
+td.flatViewSpacing {
+  height: 2px;
+  background-color: #80b7ff;
+}
+
+/*****************************************************
+Table Header and cell definitions
+*****************************************************/
+th {
+  background-image: url(/Forum/skins/default/images/forumHeaderBackground.gif);
+  background-color: #4455aa;
+}
+
+td.forumHeaderBackgroundAlternate {
+  background-image: url(/Forum/skins/default/images/forumHeaderBackgroundAlternate.gif);
+  background-color: #ebedf6;
+}
+
+/*****************************************************
+Body
+*****************************************************/
+body {
+  font-size: 8pt;
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  scrollbar-face-color: #dee3e7;
+  scrollbar-highlight-color: #ffffff;
+  scrollbar-shadow-color: #dee3e7;
+  scrollbar-3dlight-color: #d1d7dc;
+  scrollbar-arrow-color: #006699;
+  scrollbar-track-color: #efefef;
+  scrollbar-darkshadow-color: #98aab1;
+}
+
+/*****************************************************
+Validation Text
+*****************************************************/
+.validationWarningSmall {
+  color: Red;
+  font-size: 0.9em;
+}
+
+/*****************************************************
+General Text
+*****************************************************/
+.normalTextSmall {
+  font-size: 1em;
+}
+
+.normalTextSmallBold {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.normalTextSmaller {
+  font-size: 0.9em;
+}
+
+.normalTextSmall,
+.normalTextSmallBold,
+.normalTextSmaller {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/*****************************************************
+Text used on tables with a background
+*****************************************************/
+.tableHeaderText {
+  color: white;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+/*****************************************************
+Border used around tables
+*****************************************************/
+.tableBorder {
+  border: 1px #013da4 solid;
+  background-color: #ffffff;
+}
+
+/*****************************************************
+Main forum colors
+*****************************************************/
+td.forumRow {
+  background-color: #ddeeff;
+}
+
+td.forumAlternate {
+  background-color: #dae7fd;
+}
+
+/*****************************************************
+Background color and text used in threaded view
+*****************************************************/
+td.threadTitle {
+  background-color: #d4d9ec;
+}
+
+.threadDetailTextSmall {
+  color: #0055e7;
+  font-size: 0.9em;
+}
+
+.threadDetailTextSmallBold {
+  color: #0055e7;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+td.forumRowHighlight {
+  background-color: #d4d9ec;
+}
+
+/*****************************************************
+Text and links used in ForumGroupRepeater and ForumRepeater
+*****************************************************/
+.forumTitle {
+  font-size: 1em;
+  font-weight: bold;
+  color: #013da4;
+}
+
+a.forumTitle:visited,
+a.forumTitle:link {
+  font-size: 1em;
+  font-weight: bold;
+  color: #013da4;
+}
+
+a.forumTitle:hover {
+  color: #dd6900;
+}
+
+.forumName {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: navy;
+}
+
+a.forumName:hover {
+  color: #dd6900;
+  text-decoration: underline;
+}
+
+/*****************************************************
+Form Elements
+*****************************************************/
+select {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  font-weight: bold;
+  background-color: #dae7fd;
+  border-color: Black;
+}
+
+textarea {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  background-color: White;
+  border-color: Black;
+}
+
+/*****************************************************
+Menu Controls
+*****************************************************/
+A.linkMenuSink {
+  font-size: 0.9em;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  position: relative;
+}
+
+TD.popupMenuSink {
+  position: relative;
+}
+
+DIV.popupMenu {
+  border: 1px solid blue;
+}
+
+DIV.popupTitle {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  background-color: #4455aa;
+}
+
+DIV.popupItem {
+  font-size: 1em;
+  font-weight: bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #ddeeff;
+}
+/*
+     FILE ARCHIVED ON 03:40:17 Apr 22, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:18:14 May 11, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.372
+  captures_list: 0.574
+  exclusion.robots: 0.052
+  exclusion.robots.policy: 0.043
+  esindex: 0.01
+  cdx.remote: 23.941
+  LoadShardBlock: 116.226 (3)
+  PetaboxLoader3.datanode: 80.38 (4)
+  PetaboxLoader3.resolve: 201.316 (3)
+  load_resource: 217.625
+*/
