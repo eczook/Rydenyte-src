@@ -1,6 +1,7 @@
 # RYDENYTE - It's good bricks!
 
-<img width="300" height="59" alt="rydenyte_logo" src="https://github.com/user-attachments/assets/a15236cf-a632-406e-af76-9b351a87459c" />
+<img width="245" height="59" alt="rydenyte_logo" src="https://github.com/user-attachments/assets/a15236cf-a632-406e-af76-9b351a87459c" />
+
 credits: Dr3ddx
 
 Rydenyte is a 2008M roblox revival that is easily deployable.
