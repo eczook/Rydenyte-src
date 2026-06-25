@@ -1,2 +1,4 @@
 # Rydenyte-src
-last rydenyte src. its now being remade ig
+2008L rydenyte source code
+credits: Dr3ddx
+(i did not make this. im just uploading it)
