@@ -324,7 +324,7 @@ Username: <?= htmlspecialchars($profile["username"]) ?>
                                     return $data['username'];
                                 }
 
-                                $discordUsername = getDiscordUsername($profile["discord_id"], "MTUxNjIyOTQ4NDE1NDQ1NDA0Ng.GbRIOQ.x6ZFMA2fSxbokabJdib1XTK-gUmpSIeOnRLUcE");
+                                $discordUsername = getDiscordUsername($profile["discord_id"], "...");
 
                                 foreach ($userBadges as $badge):
                                 if ($count % 4 == 0) {
