@@ -3,6 +3,7 @@
 <img width="245" height="59" alt="rydenyte_logo" src="https://github.com/user-attachments/assets/a15236cf-a632-406e-af76-9b351a87459c" />
 
 credits: Dr3ddx
+note: this is old rydenyte! of when it was 2008M 
 
 Rydenyte is a 2008M roblox revival that is easily deployable.
 
